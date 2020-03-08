@@ -1,0 +1,14 @@
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe.config
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\bin\Debug\Project do an 2.pdb
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project_02_Puzzle.csprojAssemblyReference.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\MainWindow.g.cs
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\App.g.cs
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.lref
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\MainWindow.baml
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.g.resources
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project_do_an_2.Properties.Resources.resources
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project_02_Puzzle.csproj.GenerateResource.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.exe
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.pdb

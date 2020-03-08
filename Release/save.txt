@@ -1,0 +1,11 @@
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Release\beach.jpg
+True
+250
+0 0 0 0
+0 1 0 1
+0 2 0 2
+1 0 1 2
+1 1 1 0
+1 2 2 0
+2 0 2 2
+2 1 2 1

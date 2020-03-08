@@ -1,0 +1,11 @@
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\bin\Debug\NUMBER-FACES-01.jpg
+True
+592
+0 0 2 2
+0 1 0 2
+0 2 2 1
+1 0 1 0
+1 1 1 1
+1 2 0 1
+2 0 1 2
+2 1 2 0

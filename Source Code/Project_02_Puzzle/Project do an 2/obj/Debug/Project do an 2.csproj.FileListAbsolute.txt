@@ -1,0 +1,73 @@
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe.config
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\bin\Debug\Project do an 2.pdb
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csprojAssemblyReference.cache
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\MainWindow.g.cs
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\App.g.cs
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.cache
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.lref
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\MainWindow.baml
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.g.resources
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project_do_an_2.Properties.Resources.resources
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csproj.GenerateResource.cache
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csproj.CoreCompileInputs.cache
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.exe
+C:\Users\Hung-PC\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.pdb
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe.config
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\bin\Debug\Project do an 2.pdb
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.cache
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.lref
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.g.resources
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project_do_an_2.Properties.Resources.resources
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.exe
+C:\Users\DELL\Desktop\Project do an 2\Project do an 2\obj\Debug\Project do an 2.pdb
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe.config
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\bin\Debug\Project do an 2.exe
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\bin\Debug\Project do an 2.pdb
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\MainWindow.g.cs
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\App.g.cs
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.lref
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\MainWindow.baml
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.g.resources
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project_do_an_2.Properties.Resources.resources
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csproj.GenerateResource.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.exe
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.pdb
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\Project do an 2\Project do an 2\obj\Debug\Project do an 2.csprojAssemblyReference.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\bin\Debug\Project do an 2.exe.config
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\bin\Debug\Project do an 2.exe
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\bin\Debug\Project do an 2.pdb
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.csprojAssemblyReference.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\MainWindow.g.cs
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\App.g.cs
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.lref
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\MainWindow.baml
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.g.resources
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project_do_an_2.Properties.Resources.resources
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.csproj.GenerateResource.cache
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.exe
+F:\NĂM 3\HK1 2019-2020\LẬP TRÌNH WINDOWS\ĐỒ ÁN\ĐỒ ÁN 2\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.pdb
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\bin\Debug\Project do an 2.exe.config
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\bin\Debug\Project do an 2.exe
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\bin\Debug\Project do an 2.pdb
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.csprojAssemblyReference.cache
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\MainWindow.g.cs
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\App.g.cs
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.cache
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2_MarkupCompile.lref
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\MainWindow.baml
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.g.resources
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project_do_an_2.Properties.Resources.resources
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.csproj.GenerateResource.cache
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.csproj.CoreCompileInputs.cache
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.exe
+F:\Nam 3\LT Windows\3 do an\1712482_1712509_1712528_MiniProject_Puzzle\Source Code\Project_02_Puzzle\Project do an 2\obj\Debug\Project do an 2.pdb

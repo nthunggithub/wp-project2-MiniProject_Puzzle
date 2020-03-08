@@ -1,0 +1,18 @@
+﻿<Window x:Class="Project_do_an_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Project_do_an_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="1050" Loaded="Window_Loaded" MouseMove="Window_MouseMove"
+        KeyUp="Window_KeyUp">
+    <Canvas Name="canvas" Margin="1,0,-1.4,0.4">
+        <Button Name ="save" Content="Save" Width="100" Height="40" Click="Save_Click" Canvas.Left="335"/>
+        <Button Name ="load" Content="Load" Canvas.Left="437" Width="100" Height="40" Click ="Load_Click"/>
+        <TextBlock Name="timer" Width="130" Height="46" Canvas.Left="815" Background="PowderBlue" Foreground="Red" FontSize="40px" HorizontalAlignment="Center"  VerticalAlignment="Center" Canvas.Top="1"/>
+        <Button Name ="clear" Content="Clear" Width="100" Height="40" Click="Clear_Click" Canvas.Left="642"/>
+        <Button Name="SelectImage" Content="SelectImage" Click="SelectImage_Click" Canvas.Left="539" Height="40" Width="100"/>
+        <Image Name ="previewImage"/>
+    </Canvas>
+</Window>
